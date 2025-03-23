@@ -5,13 +5,14 @@
 	 font-family:'roboto',sans-serif;
 }
 .container{
+    margin-top:20px;
+    display:flex;
+	justify-content:center;
+}
+.side{
+	width:420px;
+	justify-content:center;
 	border-top:5px solid blue;
-	position:absolute;
-	top:30%;
-	left:50%;
-	 transform:translate(-50%,-50%);
-	 height:220px;
-	 width:420px;
 	 box-shadow:0 0 5px rgba(0,0,0,0.5);
 }
 input[type=text]{
