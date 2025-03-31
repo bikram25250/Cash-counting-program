@@ -1,2 +1,1 @@
-# Cash-counting-program
-C Language 
+# Project
